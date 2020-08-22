@@ -3,9 +3,9 @@ package oauth1
 import (
 	"net/http"
 
-	"github.com/dghubble/gologin/v2"
-	"github.com/dghubble/gologin/v2/internal"
 	"github.com/dghubble/oauth1"
+	"github.com/rohenaz/gologin/v2"
+	"github.com/rohenaz/gologin/v2/internal"
 )
 
 // LoginHandler handles OAuth1 login requests by obtaining a request token and

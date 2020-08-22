@@ -7,9 +7,9 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/dghubble/gologin/v2"
-	oauth2Login "github.com/dghubble/gologin/v2/oauth2"
-	"github.com/dghubble/gologin/v2/testutils"
+	"github.com/rohenaz/gologin/v2"
+	oauth2Login "github.com/rohenaz/gologin/v2/oauth2"
+	"github.com/rohenaz/gologin/v2/testutils"
 	"github.com/stretchr/testify/assert"
 	"golang.org/x/oauth2"
 	google "google.golang.org/api/oauth2/v2"

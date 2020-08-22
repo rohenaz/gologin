@@ -5,9 +5,9 @@ import (
 	"net/http"
 
 	"github.com/dghubble/go-twitter/twitter"
-	"github.com/dghubble/gologin/v2"
-	oauth1Login "github.com/dghubble/gologin/v2/oauth1"
 	"github.com/dghubble/oauth1"
+	"github.com/rohenaz/gologin/v2"
+	oauth1Login "github.com/rohenaz/gologin/v2/oauth1"
 )
 
 // Twitter login errors
